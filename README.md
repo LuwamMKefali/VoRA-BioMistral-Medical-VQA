@@ -144,7 +144,7 @@ The notebook handles all dependency installation, data downloading, and model se
 
 ## Acknowledgments
 
-This project is developed as part of coursework og Big Data and Text Mining at the **University of Bologna**, supervised by **Dr. Giacomo Frisoni** and **Prof. Gianluca Moro**.
+This project is developed as part of coursework of Big Data and Text Mining at the **University of Bologna**, supervised by **Dr. Giacomo Frisoni** and **Prof. Gianluca Moro**.
 
 ---
 
